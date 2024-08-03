@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Schedule Vet appointment",
+        "text": "Call vet hospital to schedule appointment",
+        "id": "ab486b88-c073-4abe-a8b4-7670ba13628e"
+    },
+    {
+        "title": "Car maintenance",
+        "text": "Take car to get serviced",
+        "id": "97ee6edf-b8dd-444b-b15b-d08bd9e80a65"
+    },
+    {
+        "title": "Homework",
+        "text": "DO BOOTCAMP HOMEWORK DUMMY",
+        "id": "c6187c59-06c6-4cb0-beb7-b162084d2b97"
+    },
+    {
+        "title": "House cleaning",
+        "text": "Clean room, take unused stuff to storage",
+        "id": "77e0d838-2d25-454a-b172-1697b802622b"
+    },
+    {
+        "title": "Call Zeke",
+        "text": "Call Zeke to check in",
+        "id": "8c39db55-6ee0-43e6-89e1-63b6322c370c"
+    },
+    {
+        "title": "Check investment account",
+        "text": "Check balance of investment account",
+        "id": "4c6356e3-8b2a-42e6-a85e-3f15adec6c00"
+    }
+]
